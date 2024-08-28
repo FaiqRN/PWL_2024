@@ -126,7 +126,7 @@
                 <tr><td style="padding-left: 40px;">RT/RW</td><td>:</td><td>666/666</td></tr>
                 <tr><td style="padding-left: 40px;">Kel/Desa</td><td>:</td><td>MOJOLANGU</td></tr>
                 <tr><td style="padding-left: 40px;">Kecamatan</td><td>:</td><td>LOWOKWARU</td></tr>
-                <tr><td>Agama</td><td>:</td><td>ISLAM</td></tr>
+                <tr><td>Agama</td><td>:</td><td>ISLAM KTPP</td></tr>
                 <tr><td>Status Perkawinan</td><td>:</td><td>BELUM KAWIN</td></tr>
                 <tr><td>Pekerjaan</td><td>:</td><td>PELAJAR/MAHASISWA</td></tr>
                 <tr><td>Kewarganegaraan</td><td>:</td><td>WNI</td></tr>
